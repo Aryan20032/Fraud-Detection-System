@@ -11,3 +11,4 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
+link to the dataset :- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
